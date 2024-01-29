@@ -36,7 +36,7 @@ If you want to push your branch please adhere to the following rules:
 * For expansion of our unittests, use: "**tests**/<branch_name>".
 
 Besides, delete your branch after merge or inactivity. We want to keep the repo clean!
-# Add documents
+# Add documents again
 
 ______________
 # Contributing to Quant Equity Settings
